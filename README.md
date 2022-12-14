@@ -10,8 +10,6 @@ Code
 ![image](https://user-images.githubusercontent.com/98023374/207540778-ec11747b-94d3-4743-a0c8-ea0b85dd4b19.png)
 ![image](https://user-images.githubusercontent.com/98023374/207540795-9a597d3a-7ffb-4674-a156-883acf234acf.png)
 ![image](https://user-images.githubusercontent.com/98023374/207542601-a53674a2-9bbe-452f-88de-be2797369202.png)
-![image](https://user-images.githubusercontent.com/98023374/207542817-2a0107fc-5a37-49ae-8551-27e72013e757.png)
-
 
 
 Tolls
