@@ -1,6 +1,6 @@
 ### Hi there 👋
-!image](![image](https://user-images.githubusercontent.com/98023374/207540505-107304d4-cf24-441a-9416-deaceffe9c20.png)
-)
+![image](https://user-images.githubusercontent.com/98023374/207540505-107304d4-cf24-441a-9416-deaceffe9c20.png)
+
 
 Here are some ideas to get you started:
 
