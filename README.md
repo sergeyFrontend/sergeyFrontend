@@ -1,5 +1,6 @@
 ### Welcome to my github profile ✌
 
+
 Code
 
 ![image](https://user-images.githubusercontent.com/98023374/207540505-107304d4-cf24-441a-9416-deaceffe9c20.png)
@@ -8,8 +9,6 @@ Code
 ![image](https://user-images.githubusercontent.com/98023374/207540744-9ea54e26-3ab9-441e-8098-95afbc7c1a6c.png)
 ![image](https://user-images.githubusercontent.com/98023374/207540778-ec11747b-94d3-4743-a0c8-ea0b85dd4b19.png)
 ![image](https://user-images.githubusercontent.com/98023374/207540795-9a597d3a-7ffb-4674-a156-883acf234acf.png)
-![image](https://user-images.githubusercontent.com/98023374/207541483-34577078-0da8-44a7-92e7-523f72c3f892.png)
-
 
 Tolls
 
